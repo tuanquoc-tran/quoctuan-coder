@@ -4,4 +4,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quoctuan-spk&count_private=true)
 
-[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://quoctuan-spk.github.io/)
+# Learn more [![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://quoctuan-spk.github.io/)
